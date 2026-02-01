@@ -9,3 +9,7 @@ k = "Adiós mundo"
 
 print("agregamos a primera rama")
 y = 5
+
+f = y + c
+def saludo():
+    print("Saludos a todos")
